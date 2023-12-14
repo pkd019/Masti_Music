@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "246677683335",
+    "project_id": "amc-man",
+    "storage_bucket": "amc-man.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246677683335:android:b2924a40f7dcaf7dcd4c22",
+        "android_client_info": {
+          "package_name": "com.dotstudios.amc_man"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246677683335-pl221pthg6tajq942f06ra8hm3d49689.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dotstudios.amc_man",
+            "certificate_hash": "005f8656ca0bcdeb38c1b580aeec0b5947aa9d68"
+          }
+        },
+        {
+          "client_id": "246677683335-tb02sf55g36esd7fdphtsefnl0flq4ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUXdGpjlsFqEXVjksjStDc7oCWvwAmPMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246677683335-tb02sf55g36esd7fdphtsefnl0flq4ia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

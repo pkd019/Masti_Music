@@ -1,0 +1,432 @@
+{
+  "class": [
+    "Education Facilities",
+    "Medical & Health Facilities",
+    "Veterinary & Fisheries Facilities",
+    "Transport Systems & Connectivity",
+    "Power and Energy",
+    "Sanitation & Sewerage Facilities",
+    "Postal & Telecom Services",
+    "Banks, Insurance & Credit Societies",
+    "Water Sources & Structures",
+    "General Assets/ Facilities",
+    "Administrative",
+    "Extension, Training & Data Collection Centres",
+    "Agriculture System & Allied Activities",
+    "Forest Produce",
+    "Mining & Quarrying",
+    "Industries & Types"
+  ],
+  "subClass": {
+    "Education Facilities": [
+      "Schools",
+      "Colleges/ Universities",
+      "Training Institutions/ Centres",
+      "Public Libraries",
+      "Other Educational Assets"
+    ],
+    "Medical & Health Facilities": [
+      "Anganwadi",
+      "Women and Child Health Centre",
+      "Health Centres/ Hospitals",
+      "Other Medical Facilities"
+    ],
+    "Veterinary & Fisheries Facilities": [
+      "Veterinary Dispensaries/ Hospitals",
+      "Other Veterinary Facilities"
+    ],
+    "Transport Systems & Connectivity": [
+      "Road Types and Structures",
+      "Road Transport Facilities",
+      "Railway Types and Structures",
+      "Railway Transport Facilities",
+      "Air Transport Facilities",
+      "Water Transport Facilities"
+    ],
+    "Power and Energy": [
+      "Electricity and Usage",
+      "Electric Assets",
+      "Power Generation Plants"
+    ],
+    "Sanitation & Sewerage Facilities": [
+      "Public Toilets",
+      "Garbage Disposal Sites",
+      "Garbage Treatment Units",
+      "Drains/ Naalas",
+      "Sewage Treatment Plants"
+    ],
+    "Postal & Telecom Services": ["Postal Facilities", "Telecom Facilities"],
+    "Banks, Insurance & Credit Societies": [
+      "Banks",
+      "ATM's",
+      "Insurance",
+      "Credit Societies",
+      "Other Financial Institutions"
+    ],
+    "Water Sources & Structures": ["Water Sources", "Water Structures"],
+    "General Assets/ Facilities": [
+      "Commercial",
+      "Fuel Depots",
+      "Public Distribution Shops",
+      "Public/ Social Services",
+      "Lodging Facilities",
+      "Tourist Places",
+      "Religious Places",
+      "Recreational Places",
+      "Feed Fodder Facilities",
+      "Livestock Water Troughs",
+      "Other General Assets"
+    ],
+    "Administrative": [
+      "Offices",
+      "Governnment Lodging Facilities",
+      "Other Administrative Assets"
+    ],
+    "Extension, Training & Data Collection Centres": [
+      "Information Centres",
+      "Training and Research Centres",
+      "Data Collection Centre"
+    ],
+    "Agriculture System & Allied Activities": [
+      "Agriculture Practice",
+      "Dairy Unit",
+      "Fishery /Aquaculture",
+      "Poultry Farm",
+      "Other Farming Assets"
+    ],
+    "Forest Produce": ["Forest"],
+    "Mining & Quarrying": ["Mines", "Quarries"],
+    "Industries & Types": ["Industries"]
+  },
+  "subClassOptions": {
+    "Schools": [
+      "Primary School",
+      "Middle School",
+      "Secondary School",
+      "Senior Secondary School",
+      "Training School",
+      "School for Disabled",
+      "Others School"
+    ],
+    "Colleges/ Universities": [
+      "University",
+      "Science College",
+      "Commerce College",
+      "Arts College",
+      "Medical Sciences",
+      "Engineering College",
+      "Management College",
+      "ITI",
+      "Polytechnic",
+      "Other College or University"
+    ],
+    "Training Institutions/ Centres": [
+      "Adult Literacy",
+      "Distant Learning",
+      "Computer Centre",
+      "Vocational Training Institute",
+      "Physical Training Institute",
+      "Other Training Institute/Centre"
+    ],
+    "Public Libraries": ["Public Library"],
+    "Other Educational Assets": ["Other Educational Asset"],
+    "Anganwadi": ["Anganwadi"],
+    "Women and Child Health Centre": ["Women & Child Health Centre"],
+    "Health Centres/ Hospitals": [
+      "Sub Centre",
+      "Primary Health Centre",
+      "Community Health Centre",
+      "Dispensary",
+      "Hospital",
+      "Super Speciality Hospital",
+      "Other Health Centre or Hospital"
+    ],
+    "Other Medical Facilities": [
+      "Drug Rehabilitation Centre",
+      "Blood Bank",
+      "Immunization Centre",
+      "T. B. Clinic",
+      "AIDS Centre",
+      "Polyclinic",
+      "Leprosy Centre",
+      "Mental Hospital",
+      "Tobacco Control Centre",
+      "Physiotherapy Centre",
+      "Occupational Therapy Centre",
+      "Emergency Trauma Centre",
+      "Eye Hospital",
+      "Diagnostic Lab",
+      "Medical Shop",
+      "Other Medical Facility"
+    ],
+    "Veterinary Dispensaries/ Hospitals": [
+      "Veterinary Dispensaries/ Hospitals"
+    ],
+    "Other Veterinary Facilities": ["Other Veterinary Facilities"],
+    "Road Types and Structures": [
+      "National Highway",
+      "State Highway",
+      "Major District Road",
+      "Footpath",
+      "Cart Track",
+      "Bridge",
+      "Culvert",
+      "Flyover",
+      "Causeway",
+      "Underpass",
+      "Tracks",
+      "Other Structure"
+    ],
+    "Road Transport Facilities": [
+      "Subway",
+      "Bus Stand",
+      "Parking Area",
+      "Bus Shelter",
+      "Bus Stop",
+      "Bus Depot",
+      "Taxi or Auto Stand",
+      "Check Post",
+      "Other Road Transport Facility"
+    ],
+    "Railway Types and Structures": [
+      "Indian Railways",
+      "Metro",
+      "Tram",
+      "Monorail",
+      "Other Rails",
+      "Railway Bridge",
+      "Manned Crossing",
+      "Unmanned Crossing",
+      "Other Railway Structure"
+    ],
+    "Railway Transport Facilities": [
+      "Railway Station",
+      "Railway Reservation Centre",
+      "Metro Station",
+      "Loco Shed",
+      "Railway Yard",
+      "Other Railway Transport Facility"
+    ],
+    "Air Transport Facilities": [
+      "Airport",
+      "Helipad",
+      "Airstzip",
+      "Other Air Transport Facility"
+    ],
+    "Water Transport Facilities": [
+      "Harbour",
+      "Sea Port",
+      "Light House",
+      "Waterway",
+      "Jetty",
+      "Boat or Ferry Station",
+      "Other Water Transport Facility"
+    ],
+    "Electricity and Usage": ["Electricity and Usage"],
+    "Electric Assets": [
+      "Power Pole",
+      "Street Light",
+      "Transformer",
+      "Power Sub-station",
+      "Other Electric Asset"
+    ],
+    "Power Generation Plants": [
+      "Nuclear Power Plant",
+      "Solar Plant",
+      "Thermal Plant",
+      "Hydel Plant",
+      "Tydal Plant",
+      "Wind Mills",
+      "Bio-energy Plant",
+      "Biogas Plant",
+      "Other Power Generation Plant"
+    ],
+    "Public Toilets": ["Public Toilet"],
+    "Garbage Disposal Sites": ["Garbage Disposal Site"],
+    "Garbage Treatment Units": ["Garbage Treatment Unit"],
+    "Drains/ Naalas": ["Drain", "Naala"],
+    "Sewage Treatment Plants": ["Sewage Treatment Plant"],
+    "Postal Facilities": [
+      "Post Box",
+      "Post Office",
+      "Courier Service",
+      "Other Postal Service"
+    ],
+    "Telecom Facilities": [
+      "Telephone Booth",
+      "Telephone Exchange",
+      "Telecom Poles",
+      "Distribution Point Station",
+      "Mobile Tower",
+      "Cyber Cafe",
+      "Other Telecom Facility"
+    ],
+    "Banks": ["Bank"],
+    "ATM's": ["ATM"],
+    "Insurance": ["Insurance Company"],
+    "Credit Societies": ["Credit Society"],
+    "Other Financial Institutions": ["Other Financial Institution"],
+    "Water Sources": [
+      "Tap",
+      "Hand Pump",
+      "Well",
+      "Dug Well cum Bore Well",
+      "Tubewell",
+      "Tank or Pond",
+      "Canal",
+      "River",
+      "Lake",
+      "Spring",
+      "Tanker Supply",
+      "Other Water Source"
+    ],
+    "Water Structures": [
+      "Dam",
+      "Check Dam",
+      "Earthen Dam",
+      "Barrage",
+      "Weir",
+      "Anicut",
+      "Rainwater Harvest Tank",
+      "Storage Tank",
+      "Pump House",
+      "Water Treatment Plant",
+      "Water Desalination Plant",
+      "Other Water Structure"
+    ],
+    "Commercial": [
+      "Milk Depot",
+      "Milk Collection Centre",
+      "Tea Stall",
+      "Restaurant",
+      "Godown or Warehouse",
+      "Cold Storage",
+      "Repairing and Workshop",
+      "Slaughter House",
+      "Mandi",
+      "Commodity-wise Market",
+      "Haat",
+      "Shopping Mall",
+      "Other Market",
+      "Other Commercial Unit"
+    ],
+    "Fuel Depots": ["Fuel Depot"],
+    "Public Distribution Shops": [
+      "Ration or Fair Price Shop",
+      "Cooking Gas Distribution",
+      "Kerosene Depot",
+      "Other Public Distribution Shop"
+    ],
+    "Public/ Social Services": [
+      "Child Adoption Centre",
+      "Day Care Centre",
+      "Night Shelter House",
+      "Orphanages",
+      "Old Age Home",
+      "Disaster Shelter",
+      "Fire Station",
+      "Dhobhighat",
+      "Cremation Ground",
+      "Graveyard",
+      "Other Public or Social Service Unit"
+    ],
+    "Lodging Facilities": [
+      "Hotel",
+      "Guest House",
+      "Lodge",
+      "Inn",
+      "Dharamshala",
+      "Other Lodging Facility"
+    ],
+    "Tourist Places": [
+      "Zoo",
+      "Museum",
+      "Park or Garden",
+      "Historic Place",
+      "Other Tourism Site"
+    ],
+    "Religious Places": [
+      "Temple",
+      "Church",
+      "Mosque",
+      "Shrines",
+      "Dargah",
+      "Gurudwara",
+      "Monastery",
+      "Agiary",
+      "Other Religious Place"
+    ],
+    "Recreational Places": [
+      "Cinema or Video Hall",
+      "Kisan Club",
+      "Youth Club",
+      "Sports Club",
+      "Playground",
+      "Stadium",
+      "Akhada",
+      "Choupal",
+      "Auditorium",
+      "Marriage or Community Hall",
+      "Other Recreational Facilities"
+    ],
+    "Feed Fodder Facilities": [
+      "Feed or Fodder Manufacturing Unit",
+      "Fodder Storage House"
+    ],
+    "Livestock Water Troughs": ["Livestock Water Trough"],
+    "Other General Assets": ["Other General Asset"],
+    "Offices": [
+      "Collector Office",
+      "Zila Parishad",
+      "Panchayat Sarniti",
+      "Tehsil or Taluka Office",
+      "Gram Panchayat Mayan",
+      "Gram Sewak Office",
+      "Patwari Office",
+      "Police Station or Chowki",
+      "Line Department Office",
+      "Other Office"
+    ],
+    "Governnment Lodging Facilities": [
+      "Circuit House",
+      "Youth Hostel",
+      "Dak Bunglow",
+      "Forest Guest House"
+    ],
+    "Other Administrative Assets": ["Other Administrative Asset"],
+    "Information Centres": [
+      "Krishi Vigyaan or Gyan Kendra",
+      "Kisan Call Centre",
+      "Agricultural Kiosk",
+      "Agro Service Centre",
+      "Pest Control Centre/ Unit",
+      "Certified Seed Centre",
+      "Fertilizer or Manure Depot",
+      "Charitable Trust",
+      "Non-Governmental Organization",
+      "Voluntary Organization",
+      "Other Information Centre"
+    ],
+    "Training and Research Centres": [
+      "Farmer Training Centre",
+      "Agricultural Research Station",
+      "Village Cooperative",
+      "Soil Testing Laboratory",
+      "Other Training & Research Centre"
+    ],
+    "Data Collection Centre": [
+      "Hydro-meteorological Observation Station",
+      "Rain Gauge or Meteorological Instrument",
+      "Other Collection Centre or Observatory"
+    ],
+    "Agriculture Practice": ["Agriculture Practice"],
+    "Dairy Unit": ["Dairy Unit"],
+    "Fishery /Aquaculture": ["Fishery", "Aquaculture"],
+    "Poultry Farm": ["Poultry Farm"],
+    "Other Farming Assets": ["Other Farming Assets"],
+    "Forest": ["Forest"],
+    "Mines": ["Mines"],
+    "Quarries": ["Quarry"],
+    "Industries": ["Industry"]
+  }
+}
